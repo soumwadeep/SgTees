@@ -17,3 +17,10 @@ And Lot's More!!
 
 ## Backend Is Deployed In render
 Also Added The api Key In Render Website Only.
+If Its Showing You Error Then First Of All Add The Environment Varialble In Render Website Then Also Add 
+"engines": {
+    "node": "19.3.0"
+  },
+In package.json File.Then It Will Work!As Now It Will Take This Version Of Node To Run The App.And keep yarn only for the build statement in render website.
+
+## Frontend Is Deployed In Netlify
