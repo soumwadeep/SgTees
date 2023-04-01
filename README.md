@@ -12,7 +12,7 @@ And Lot's More!!
 2. Install Dependencies By Running `npm install` Inside client Folder.
 3. Run `npm init -y` To Create A `package.json` File Inside server Folder And Install Dependencies By Running `npm install` Inside server Folder.
 4. Run `npm run dev` To Start The App From client Folder.
-5. Run `npm start` To Start The App From server Folder.
+5. Run `npm run start` To Start The App From server Folder.
 6. Create A `.env` File Inside server Folder And Add `OPENAI_API_KEY=your_key_here` To It.
 
 ## Backend Is Deployed In render
